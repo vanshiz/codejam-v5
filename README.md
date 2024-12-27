@@ -36,8 +36,10 @@ Follow these steps to get the website up and running locally.
      ```bash
      cd ..
      cd mess-menu
+     python app.py
+     
      ```
-   - Run the mess menu application with the appropriate command (replace with actual command if needed).
+   - This will run the server on port `5500`.
 
 3. **Main Website**
    - Go to the `portal` folder:
