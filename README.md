@@ -5,7 +5,7 @@ JIIT Verse is a comprehensive platform designed to help students with various da
 ## Features
 
 ### Job Portal
-- Get industry recommendations based on the tech stack you've acquired.
+- Get industry recommendations based on the tech stack you've acquired and the location feasible for you easily.
 
 ### Course Descriptions
 - Forget boring PDFs! We present an awesome UI to make course details more engaging.
