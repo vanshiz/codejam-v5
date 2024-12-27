@@ -5,8 +5,7 @@ JIIT Verse is a comprehensive platform designed to help students with various da
 ## Screenshots
 
 ![Screenshot 1](https://github.com/viveknair6915/codejam-v5/blob/main/screenshots/i1.jpeg)
-![Screenshot 2](https://github.com/viveknair6915/codejam-v5/blob/main/screenshots/i2.jpeg)
-![Screenshot 3](https://github.com/viveknair6915/codejam-v5/blob/main/screenshots/i3.jpeg)
+![Screenshot 2](https://github.com/viveknair6915/codejam-v5/blob/main/screenshots/i4.jpeg)
 
 ## Features
 
