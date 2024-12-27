@@ -55,3 +55,11 @@ Once these steps are complete, the website should be up and running.
 
 ## Repository
 You can access the code on [GitHub](https://github.com/viveknair6915/codejam-v5).
+
+
+## Contributors
+----> [mysticfury](http://github.com/viveknair6915)
+----> [vanshiz] (http://github.com/vanshiz)
+----> [unnati-techi](http://github.con/unnati-techi)
+----> [life2harsh](http://github.com/life2harsh)
+
